@@ -1,0 +1,23 @@
+{
+  "name": "medium-follower-finder",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js tool that uses Puppeteer to bypass Cloudflare and instantly fetch real-time follower counts from Medium profiles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "medium",
+    "scraper",
+    "puppeteer",
+    "followers",
+    "express",
+    "cloudflare-bypass"
+  ],
+  "author": "Yashwanth R",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.0.0"
+  }
+}
